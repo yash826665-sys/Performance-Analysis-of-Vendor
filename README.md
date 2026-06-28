@@ -64,8 +64,8 @@ Dataset: https://drive.google.com/drive/folders/1erbLbZfkdrBo5fBNuPR1sFVMkdXnivg
 
 ---
 
-## Author
+##  Author
 
 **Yash Chaudhary**
 
-B.Tech CSE | Data Analytics | SQL | Python | Power BI
+- LinkedIn: https://www.linkedin.com/in/yash-chaudhary-110137292
