@@ -43,7 +43,7 @@ An end-to-end data analytics project that analyzes vendor performance, procureme
 - Top 10 vendors contribute **65.35%** of total procurement.
 - Large purchase orders reduce unit costs by approximately **73%**.
 - Low-volume vendors generate higher average profit margins than high-volume vendors.
-- **$8.35M** of capital is tied up in unsold inventory, highlighting opportunities for inventory optimization. :contentReference[oaicite:2]{index=2}
+- **$8.35M** of capital is tied up in unsold inventory, highlighting opportunities for inventory optimization.
 
 ---
 
